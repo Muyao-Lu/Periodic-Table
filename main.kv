@@ -1,0 +1,18 @@
+FloatLayout:
+
+    canvas:
+        Color:
+            rgb: 0.1, 0.1, 0.1
+        Rectangle:
+            size: self.size
+            pos: self.pos
+    BoxLayout:
+        orientation: "vertical"
+        Label:
+            size_hint: 1, 0.1
+            text: "The Periodic Table of the Elements"
+            font_size: min(root.height, root.width)/15
+        ParentLayout:
+
+    PopupWidget:
+
