@@ -16,7 +16,7 @@ A Periodic Table of the Elements with dynamically generated Bohr Models. Will up
 </ol>
 <h3>Download Instructions:</h3>
 <ol>
-  <li>Run git clone https://github.com/Muyao-Lu/Periodic-Table/edit/master/README.md</li>
+  <li>Run <code>git clone https://github.com/Muyao-Lu/Periodic-Table/edit/master/README.md</code></li>
   <li>Find the file (It should be in C:\Users\YOURNAME\Periodic-Table)</li>
   <li>Run main.py (Make sure to install all the dependicies before running :))</li>
 </ol>
