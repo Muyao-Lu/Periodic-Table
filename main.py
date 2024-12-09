@@ -271,7 +271,7 @@ class MainApp(App):
         Clock.schedule_once(self.post_init, 0.1)
 
     def post_init(self, *args):
-        Clock.schedule_interval(parent_layout.on_size, 0.1)
+        Clock.schedule_once(parent_layout.on_size, 0.1)
 
 
 
