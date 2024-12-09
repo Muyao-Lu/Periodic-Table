@@ -20,3 +20,12 @@ A Periodic Table of the Elements with dynamically generated Bohr Models. Will up
   <li>Find the file (It should be in C:\Users\YOURNAME\Periodic-Table)</li>
   <li>Run main.py (Make sure to install all the dependicies before running :))</li>
 </ol>
+<h3>Usage Instructions</h3>
+<ul>
+  <li>Click on any element to see it's Bohr Model, Protons, Neutrons, Atomic Family, and more!</li>
+  <li>Hit exit to return back to the periodic table</li>
+  <li>Exit app with the ESC key or the X at the top left of the screen</li>
+</ul>
+
+<p>Video: https://youtu.be/fZZaYFsNIig</p>
+<p><small>Apologies to anyone who was traumatized by the video</small></p>
